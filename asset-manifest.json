@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spytech-app/minestruque-build/static/css/main.eba759ca.chunk.css",
+    "main.js": "/spytech-app/minestruque-build/static/js/main.ce1f871e.chunk.js",
+    "main.js.map": "/spytech-app/minestruque-build/static/js/main.ce1f871e.chunk.js.map",
+    "runtime-main.js": "/spytech-app/minestruque-build/static/js/runtime-main.cca78213.js",
+    "runtime-main.js.map": "/spytech-app/minestruque-build/static/js/runtime-main.cca78213.js.map",
+    "static/js/2.9cabe443.chunk.js": "/spytech-app/minestruque-build/static/js/2.9cabe443.chunk.js",
+    "static/js/2.9cabe443.chunk.js.map": "/spytech-app/minestruque-build/static/js/2.9cabe443.chunk.js.map",
+    "index.html": "/spytech-app/minestruque-build/index.html",
+    "precache-manifest.a138eff4c0b634f3d1cdd4e644ec6666.js": "/spytech-app/minestruque-build/precache-manifest.a138eff4c0b634f3d1cdd4e644ec6666.js",
+    "service-worker.js": "/spytech-app/minestruque-build/service-worker.js",
+    "static/css/main.eba759ca.chunk.css.map": "/spytech-app/minestruque-build/static/css/main.eba759ca.chunk.css.map",
+    "static/js/2.9cabe443.chunk.js.LICENSE.txt": "/spytech-app/minestruque-build/static/js/2.9cabe443.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/spytech-app/minestruque-build/static/media/background.a90dfb39.png",
+    "static/media/bomb.png": "/spytech-app/minestruque-build/static/media/bomb.60e802b3.png",
+    "static/media/diamond.png": "/spytech-app/minestruque-build/static/media/diamond.18a5a7fd.png",
+    "static/media/disabled.png": "/spytech-app/minestruque-build/static/media/disabled.914a52f5.png",
+    "static/media/logo.png": "/spytech-app/minestruque-build/static/media/logo.914a52f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca78213.js",
+    "static/js/2.9cabe443.chunk.js",
+    "static/css/main.eba759ca.chunk.css",
+    "static/js/main.ce1f871e.chunk.js"
+  ]
+}
